@@ -14,8 +14,6 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <java.version>16</java.version>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
 
         <aspectj.version>1.9.1</aspectj.version>
         <allure.version>2.13.6</allure.version>
