@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Nviki.github.io/vizsgaremek_proba_2",
+  "buildOrder" : 6,
+  "buildName" : "GitHub Actions Run #1079086895",
+  "buildUrl" : "https://github.com/Nviki/vizsgaremek_proba_2/actions/runs/1079086895",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Nviki.github.io/vizsgaremek_proba_2/6/"
+} ]
