@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 29 15:14:34 GMT 2021","Thu Jul 29 15:14:56 GMT 2021","21860","","TestWeb","","TestWeb","WebTest","WebTest()",""
+"failed","Thu Jul 29 15:15:01 GMT 2021","Thu Jul 29 15:15:05 GMT 2021","3808","","TestWeb","","TestWeb","WebTest3","WebTest3()",""
+"passed","Thu Jul 29 15:14:56 GMT 2021","Thu Jul 29 15:15:01 GMT 2021","4822","","TestWeb","","TestWeb","WebTest2","WebTest2()",""
